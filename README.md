@@ -7,5 +7,13 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## There are a few assumptions within this development
 i) The admin and user role has yet to be established, but can be developed through database table or laravel privilege pacakage
 </br>ii) The interface is accessible for all type of user(s) as for now.
+</br>iii) The loan amount of user is always full (100% after deduction from down payment)
+
+## Few things to configure before using this system
+
+1) Database configuration (name,password)
+2) Email smtp configuration
+
+
 
 
