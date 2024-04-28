@@ -14,6 +14,9 @@ i) The admin and user role has yet to be established, but can be developed throu
 1) Database configuration (name,password)
 2) Email smtp configuration
 
-
+## Running this project
+`i) npm i`</br>
+`ii) npm run dev`</br>
+`iii) php artisan serve`
 
 
