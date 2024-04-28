@@ -4,7 +4,7 @@
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # Capbay_Auto
 
-## There are a few assumptions within this development :
+## There are a few assumptions within this development
 i) The admin and user role has yet to be established, but can be developed through database table or laravel privilege pacakage
 ii) The interface is accessible for all type of user(s) as for now.
 
